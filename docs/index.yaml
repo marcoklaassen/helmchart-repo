@@ -2,8 +2,20 @@ apiVersion: v1
 entries:
   ldap-auth:
   - apiVersion: v2
+    appVersion: 1.2.0
+    created: "2023-05-15T15:00:38.739944+02:00"
+    description: create ldap-auth config
+    digest: 4f44369d1399e2585110dd62db0d3a40791729713b9a9c915bd9205c284cc40b
+    maintainers:
+    - name: Marco Klaassen
+    name: ldap-auth
+    type: application
+    urls:
+    - https://marcoklaassen.github.io/helmchart-repo/ldap-auth-1.2.0.tgz
+    version: 1.2.0
+  - apiVersion: v2
     appVersion: 1.1.0
-    created: "2023-05-15T09:15:42.480607+02:00"
+    created: "2023-05-15T15:00:38.739643+02:00"
     description: create ldap-auth config
     digest: b1ac523cb6172085141ca848b0ce3b8a2885f8be4c6298577e4ee17a08740e09
     maintainers:
@@ -15,7 +27,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-05-15T09:15:42.480342+02:00"
+    created: "2023-05-15T15:00:38.73883+02:00"
     description: create ldap-auth config
     digest: f99d48bbe1cc8e07decddc9a4aedd560de177e143fee94367769a0b04bd09940
     maintainers:
@@ -27,8 +39,20 @@ entries:
     version: 1.0.0
   sample-config:
   - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2023-05-15T15:00:38.741078+02:00"
+    description: create sample config
+    digest: 60769060a0a580227736225afabeb28120df42dbb10f55234b608d884790e5c1
+    maintainers:
+    - name: Marco Klaassen
+    name: sample-config
+    type: application
+    urls:
+    - https://marcoklaassen.github.io/helmchart-repo/sample-config-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-05-15T09:15:42.480804+02:00"
+    created: "2023-05-15T15:00:38.740837+02:00"
     description: create sample config
     digest: d35466dbaab68e61751b973d5a86d4a97e846adabd1512ddb580b9840ac92606
     maintainers:
@@ -38,4 +62,4 @@ entries:
     urls:
     - https://marcoklaassen.github.io/helmchart-repo/sample-config-1.0.0.tgz
     version: 1.0.0
-generated: "2023-05-15T09:15:42.479924+02:00"
+generated: "2023-05-15T15:00:38.737612+02:00"
