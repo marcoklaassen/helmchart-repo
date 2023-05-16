@@ -3,7 +3,7 @@ entries:
   ldap-auth:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-05-16T12:05:55.398182+02:00"
+    created: "2023-05-16T17:08:29.973549+02:00"
     description: create ldap-auth config
     digest: 4f44369d1399e2585110dd62db0d3a40791729713b9a9c915bd9205c284cc40b
     maintainers:
@@ -15,7 +15,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2023-05-16T12:05:55.397907+02:00"
+    created: "2023-05-16T17:08:29.973285+02:00"
     description: create ldap-auth config
     digest: b1ac523cb6172085141ca848b0ce3b8a2885f8be4c6298577e4ee17a08740e09
     maintainers:
@@ -27,7 +27,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-05-16T12:05:55.397609+02:00"
+    created: "2023-05-16T17:08:29.973013+02:00"
     description: create ldap-auth config
     digest: f99d48bbe1cc8e07decddc9a4aedd560de177e143fee94367769a0b04bd09940
     maintainers:
@@ -39,8 +39,32 @@ entries:
     version: 1.0.0
   sample-config:
   - apiVersion: v2
+    appVersion: 1.6.0
+    created: "2023-05-16T17:08:29.975748+02:00"
+    description: create sample config
+    digest: ae314830c4076502289d01e97fa09cb84f1342011ecf94a13745a1cbd3c7cca2
+    maintainers:
+    - name: Marco Klaassen
+    name: sample-config
+    type: application
+    urls:
+    - https://marcoklaassen.github.io/helmchart-repo/sample-config-1.6.0.tgz
+    version: 1.6.0
+  - apiVersion: v2
+    appVersion: 1.5.0
+    created: "2023-05-16T17:08:29.975508+02:00"
+    description: create sample config
+    digest: e134f00678a0e179bf8d504c8800225fa0db33b664572b0b5b07b3a9f726a31b
+    maintainers:
+    - name: Marco Klaassen
+    name: sample-config
+    type: application
+    urls:
+    - https://marcoklaassen.github.io/helmchart-repo/sample-config-1.5.0.tgz
+    version: 1.5.0
+  - apiVersion: v2
     appVersion: 1.4.0
-    created: "2023-05-16T12:05:55.399431+02:00"
+    created: "2023-05-16T17:08:29.975286+02:00"
     description: create sample config
     digest: 144485908a869e0487e8c661252cfd3c99e62a1d4aedc6120fa6ba7b5b1b5e58
     maintainers:
@@ -52,7 +76,7 @@ entries:
     version: 1.4.0
   - apiVersion: v2
     appVersion: 1.3.0
-    created: "2023-05-16T12:05:55.399176+02:00"
+    created: "2023-05-16T17:08:29.975057+02:00"
     description: create sample config
     digest: 3389bc20e36a6966a0fe2a94c82218f9409077ff119c478e995d7ec7817f593a
     maintainers:
@@ -64,7 +88,7 @@ entries:
     version: 1.3.0
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-05-16T12:05:55.398923+02:00"
+    created: "2023-05-16T17:08:29.974805+02:00"
     description: create sample config
     digest: 9158dc9363fa8ddaca9a9eb92b20255f8947c087ef0ce4d9aa1982eaf2207f17
     maintainers:
@@ -76,7 +100,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2023-05-16T12:05:55.398612+02:00"
+    created: "2023-05-16T17:08:29.97446+02:00"
     description: create sample config
     digest: 60769060a0a580227736225afabeb28120df42dbb10f55234b608d884790e5c1
     maintainers:
@@ -88,7 +112,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-05-16T12:05:55.3984+02:00"
+    created: "2023-05-16T17:08:29.973758+02:00"
     description: create sample config
     digest: d35466dbaab68e61751b973d5a86d4a97e846adabd1512ddb580b9840ac92606
     maintainers:
@@ -98,4 +122,4 @@ entries:
     urls:
     - https://marcoklaassen.github.io/helmchart-repo/sample-config-1.0.0.tgz
     version: 1.0.0
-generated: "2023-05-16T12:05:55.397138+02:00"
+generated: "2023-05-16T17:08:29.972533+02:00"
